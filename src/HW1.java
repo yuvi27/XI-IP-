@@ -161,6 +161,7 @@ public class HW1 extends javax.swing.JFrame {
         double no2=Double.parseDouble(n2.getText());
         double result=no1*no2;
         r1.setText(" "+result);
+        s1.setText("*");
     }//GEN-LAST:event_b3ActionPerformed
 
     private void b4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b4ActionPerformed
